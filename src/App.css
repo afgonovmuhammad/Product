@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.contener{
+  max-width: 2400px;
+  margin: 0 auto;
+}
+
+.select{
+  border: 1px solid rgb(45, 50, 46);
+  border-radius: 5px;
+  padding: 0px 5px;
+
+  
+}
+
+.btn_1{
+  border: 1px solid rgb(3, 139, 25);
+}
+
+.watch_p{
+  border-bottom: 1px solid #02897A;
+
+}
+
+.main_2{
+  border-radius: 0px 0px 35% 35%;
+}
+
+.main_4567{
+  border-radius: 400px 400px 0px 0px;
+
+}
+
+.can{
+  box-shadow: 0px 2px 15px rgba(23, 58, 86, 0.1);
+  border-radius: 27px;
+}
+
+/* @import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic); */
